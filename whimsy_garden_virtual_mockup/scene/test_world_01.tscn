@@ -1,0 +1,8 @@
+[gd_scene format=3 uid="uid://dp0mlusq68b1l"]
+
+[node name="test_world_01" type="Node2D"]
+
+[node name="FmodEventEmitter2D" type="FmodEventEmitter2D" parent="."]
+event_name = "event:/test_event_01"
+event_guid = "{f0e633a6-e82a-4849-af27-a3654838e6b0}"
+autoplay = true

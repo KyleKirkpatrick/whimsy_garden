@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="Workspace" id="{0008c253-b8db-41c2-b3f9-30db754c4bb2}">
+		<property name="builtBanksOutputDirectory">
+			<value>../../whimsy_garden_virtual_mockup/audio/banks</value>
+		</property>
+		<relationship name="masterEventFolder">
+			<destination>{bd5d9eb7-4bc9-4575-b486-16f2e1d05ed2}</destination>
+		</relationship>
+		<relationship name="masterTagFolder">
+			<destination>{200b778d-8030-4c15-8bdf-a94adb4ee1da}</destination>
+		</relationship>
+		<relationship name="masterEffectPresetFolder">
+			<destination>{506ae2be-ea1b-40af-87b7-8c0ecff30f09}</destination>
+		</relationship>
+		<relationship name="masterParameterPresetFolder">
+			<destination>{61fa4360-deaa-40af-9683-4a452fd6f7d4}</destination>
+		</relationship>
+		<relationship name="masterBankFolder">
+			<destination>{48bb6a3f-5900-4c72-8812-e8f5208dadee}</destination>
+		</relationship>
+		<relationship name="masterSandboxFolder">
+			<destination>{c0300766-e18a-4ad3-8ed9-85f1fcceabe5}</destination>
+		</relationship>
+		<relationship name="masterAssetFolder">
+			<destination>{7e3441b3-51d6-419c-9a99-6f2723c85a1a}</destination>
+		</relationship>
+		<relationship name="mixer">
+			<destination>{c46503f2-68fb-46a4-a4ec-edb7a38cd9ec}</destination>
+		</relationship>
+		<relationship name="profilerSessionFolder">
+			<destination>{8a6262ef-1020-4eb8-8440-fb6ceb47dd91}</destination>
+		</relationship>
+		<relationship name="platforms">
+			<destination>{8c134bd5-b541-44f1-8c17-b482bf85d9be}</destination>
+		</relationship>
+	</object>
+</objects>

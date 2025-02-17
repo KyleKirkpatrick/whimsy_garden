@@ -1,0 +1,4 @@
+[gd_scene format=3 uid="uid://b2h31uuav3il6"]
+
+[node name="FmodBankLoader" type="FmodBankLoader"]
+bank_paths = ["res://audio/banks/Desktop/Master.strings.bank", "res://audio/banks/Desktop/Master.bank"]

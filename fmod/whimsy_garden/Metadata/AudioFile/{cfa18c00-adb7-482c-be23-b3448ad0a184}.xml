@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="AudioFile" id="{cfa18c00-adb7-482c-be23-b3448ad0a184}">
+		<property name="assetPath">
+			<value>duck_quack_01.wav</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>44.0999985</value>
+		</property>
+		<property name="channelCount">
+			<value>1</value>
+		</property>
+		<property name="length">
+			<value>0.46902494331065758</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{7e3441b3-51d6-419c-9a99-6f2723c85a1a}</destination>
+		</relationship>
+	</object>
+</objects>
